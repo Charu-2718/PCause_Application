@@ -30,7 +30,7 @@ The primary goal of PCause is to correctly predict whether a patient is infected
 
 To get started with PCause, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/PCause.git`
+1. Clone the repository: `git clone https://github.com/yourusername/PCause_Application.git`
 2. Explore the provided notebooks for data augmentation, feature extraction, model training, and comparative analysis.
 3. Customize the project according to your requirements and datasets.
 
